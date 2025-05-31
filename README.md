@@ -1,4 +1,4 @@
-# AOA-Module-24
+# AOA Module-24
 ## Day 1 - CHERRY PICK UP PROBLEM
 You are given a rows x cols matrix grid representing a field of cherries where grid[i][j] represents the number of cherries that you can collect from the (i, j) cell.
 
