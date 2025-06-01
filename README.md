@@ -11,7 +11,7 @@ Return the maximum number of cherries collection using both robots by following 
 From a cell (i, j), robots can move to cell (i + 1, j - 1), (i + 1, j), or (i + 1, j + 1).
 When any robot passes through a cell, It picks up all cherries, and the cell becomes an empty cell.
 When both robots stay in the same cell, only one takes the cherries.
-Both robots cannot move outside of the grid at any moment.
+Both robots cannot move outside of the grid at any moment. 
 Both robots should reach the bottom row in grid.
 ![image](https://github.com/user-attachments/assets/776622c6-7509-43ac-b015-e76e5ae4121f)
 
